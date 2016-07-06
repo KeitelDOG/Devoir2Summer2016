@@ -52,6 +52,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showMsg(View view){
-        Toast.makeText(getApplicationContext(),"Welcome to the class",Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(),"Welcome to the summer class",Toast.LENGTH_LONG).show();
     }
 }
